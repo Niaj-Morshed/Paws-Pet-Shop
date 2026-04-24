@@ -56,16 +56,16 @@ Key Features:
    * Enhances product realism
 
 10. Advanced UI/UX Design
-   * Glassmorphism navbar
-   * Gradient overlays
-   * Hover animations (zoom, reveal)
-   * Micro-interactions (bounce, pulse)
-   * Custom scrollbar styling
+    * Glassmorphism navbar
+    * Gradient overlays
+    * Hover animations (zoom, reveal)
+    * Micro-interactions (bounce, pulse)
+    * Custom scrollbar styling
 
 11. Fully Responsive Design
-   * Mobile-first layout
-   * Horizontal scroll category buttons
-   * Adaptive grid system
+    * Mobile-first layout
+    * Horizontal scroll category buttons
+    * Adaptive grid system
 
 
 
