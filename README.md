@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6f97dc2-215b-47d3-8811-1505645374d5" width="100%" />
+</p>
+
+
 🐾 PAWS & CLAWS – Premium Pet E-commerce Website with Cart, Wishlist & Smart Search
 ------------------------------------------------------------------------------------
 Live Demo: https://niaj-morshed.github.io/Paws-Pet-Shop/
