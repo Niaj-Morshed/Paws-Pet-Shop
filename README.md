@@ -126,7 +126,7 @@ features like cart management, wishlist system, live search, and animated intera
 </p>
 
 
-***********“This is a fully interactive frontend e-commerce system with cart, wishlist, search, and checkout features built using pure JavaScript.”***********
+***********“This is a fully interactive frontend e-commerce system with cart, wishlist, search, and checkout features built using pure JavaScript.”*********** 
 
 
      
