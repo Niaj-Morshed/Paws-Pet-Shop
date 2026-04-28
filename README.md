@@ -103,7 +103,7 @@ features like cart management, wishlist system, live search, and animated intera
 <!-- Desktop Views -->
 <h3 align="center">💻 Desktop Views</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3a34a152-bf0e-495b-a346-16ddd084adaa" width="45%" />
+  <img src="https://github.com/user-attachments/assets/3a34a152-bf0e-495b-a346-16ddd084adaa" width="45%" /> 
   <img src="https://github.com/user-attachments/assets/b6f97dc2-215b-47d3-8811-1505645374d5" width="45%" />
 </p>
 
